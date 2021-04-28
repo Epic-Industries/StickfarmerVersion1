@@ -1,2 +1,2 @@
-# StickfarmerVersion1
-#Uh making stick farmer, version 1
+# Pixel Farmer Version1
+#Welcome to pixel Farmer!
